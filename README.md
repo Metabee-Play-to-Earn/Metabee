@@ -1,7 +1,8 @@
 #  MetaBee | Play-to- Earn Metaverse
 # India's First Referral Play-to-Earn Metaverse NFT platform on Polygon Chain
 
- file:///var/folders/yz/qt0t9zx10dq848pt_19msk340000gn/T/TemporaryItems/NSIRD_screencaptureui_9wtYEN/Screenshot%202022-11-19%20at%2012.18.00%20AM.png
+<img width="975" alt="Screenshot 2022-11-19 at 12 20 07 AM" src="https://user-images.githubusercontent.com/62445763/202780505-49f478bc-b9d4-44fc-870c-429fc0e04df8.png">
+
  
  ## Decentralised Honey Making Gameplay ##
  
